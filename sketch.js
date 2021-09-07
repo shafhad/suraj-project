@@ -4,8 +4,8 @@ var commet,commetImage,commetgroup;
 var score = 0, commetdestroyed = 0;
 var gameover,gameoverImage;
 
-var PLAY;
-var END;
+var PLAY=1;
+var END=0;
 var gameState = PLAY;
 
 
